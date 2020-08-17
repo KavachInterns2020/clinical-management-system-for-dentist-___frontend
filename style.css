@@ -1,0 +1,54 @@
+body{
+    background-color: rgba(7, 8, 42, 0.911);
+
+}
+.heding{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 5rem;
+}
+.user{
+    margin-top: 5rem;
+    margin-left: 14.6rem;
+    margin-right: 13rem;
+    margin-bottom: 5rem;
+
+    text-align: center;
+    align-items: center;
+   border-radius: 50px;
+   
+
+}
+.login{
+    height: 30%;
+    width: 30%;
+}
+#card{
+    text-align: center;
+}
+.emails{
+    text-align: left;
+}
+h5{
+    font-size: 30px;
+    font-style: italic;
+    font-family:'Times New Roman', Times, serif;
+ 
+}
+.font{
+    font-style: italic;
+    font-weight: bold;
+    font-family:'Times New Roman', Times, serif;
+}
+.Button{
+    background-color: red;
+    width: 200px;
+ 
+}
+.Button2{
+    background-color:green;
+    width: 200px;
+ 
+}
