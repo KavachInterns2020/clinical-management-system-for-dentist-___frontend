@@ -2,6 +2,59 @@ body{
     background-color: rgba(7, 8, 42, 0.911);
 
 }
+#navlist{
+    color: white;
+    
+}
+#login{
+    color: white;
+    border-color: white;
+}
+#signin{
+    color: white;
+    border-color: white;
+}
+#slide{
+    height: 320px;
+    width: 100%;
+
+}
+.btnlog{
+   border-color: rgb(105, 143, 168);
+   background-color: rgba(7, 8, 42, 0.911);
+
+}
+.btnsign{
+    border-color: rgb(105, 143, 168);
+    background-color: rgba(7, 8, 42, 0.911);
+ 
+ }
+ #h1{
+     text-align: center;
+     color: white;
+     font-weight: bold;
+     font-style: italic;
+     font-family: 'Times New Roman', Times, serif;
+}
+#feat{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+#p{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+}
+#para{
+    color: white;
+
+}
+li{
+    color: white;
+}
 .heding{
     text-align: center;
     color: white;
@@ -51,4 +104,12 @@ h5{
     background-color:green;
     width: 200px;
  
+}
+.bttom{
+   background-color: white;
+   text-align: center;
+}
+#bttom{
+    color:black;
+    font-size: 10px;
 }
